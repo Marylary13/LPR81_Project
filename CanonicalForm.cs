@@ -42,7 +42,7 @@ namespace LPR381
  }
 
 
- public void ConvertToCanonicalForm()
+ public void ConvertZToCanonicalForm()
  {
      if (maxOrMin == "max")
      {
