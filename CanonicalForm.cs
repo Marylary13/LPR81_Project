@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LPR381
 {
-    internal class PrimalSimplex
+    internal class CanonicalForm
     {
     }
 }
